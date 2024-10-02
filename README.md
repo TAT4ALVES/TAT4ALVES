@@ -7,10 +7,14 @@ Meu nome é Thaiane vituri alves⭐
 - Estou estudando na Alura **[https://www.alura.com.br]**
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
-- 
+  
  ### Você pode entrar em contato comigo : gmail/instagram
 
 viturialves@gmail.com
 @yztata
+
+
+
+
 ![](https://media.tenor.com/5M6PXJk2lBAAAAAi/blegh.gif)
 
